@@ -1,0 +1,5 @@
+- [X] Add background color
+- [X] Add visual formatting for CSS
+- [X] Add hover and active css selectors
+- [X] Style Navigation bar
+- [ ] Style Nav bar for day 1
