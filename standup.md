@@ -1,6 +1,8 @@
 ### Apr 16th
 - [X] Add background color
 - [X] Add visual formatting for CSS
+- [X] Find make stuff disappear
+    -  _Soltuion_: `display: none`
 - TODO: Try using display: none and using pseudoselectors to do some magic
 - TODO: Style Navigation bar on all pages
 ### Apr 17th morning
